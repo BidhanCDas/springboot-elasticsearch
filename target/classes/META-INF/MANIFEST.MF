@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Built-By: snigdha.saha@uk.ibm.com
+Build-Jdk: 9.0.4
+Implementation-Title: springboot-springdata-elasticsearch
+Implementation-Version: 1.0
+Implementation-Vendor-Id: org.springframework.boot
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-URL: http://projects.spring.io/spring-boot/springboot-s
+ pringdata-elasticsearch/
+Created-By: Maven Integration for Eclipse
+
